@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-03-12T17:30:35.348781",
+            "datePublished": "2026-07-17T08:45:35.598422",
             "hasPart": [
                 {
                     "@id": "cgmlst_bacterial_genome.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#2cacee5c-7245-42d2-9b6c-0bf51d6574c9"
+                    "@id": "#2babad34-57ea-4030-8397-f32e73010076"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/cgmlst-bacterial-genome",
-            "version": "1.1"
+            "version": "1.2"
         },
         {
             "@id": "#galaxy",
@@ -96,7 +96,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#2cacee5c-7245-42d2-9b6c-0bf51d6574c9",
+            "@id": "#2babad34-57ea-4030-8397-f32e73010076",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -162,7 +162,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.40"
+            "engineVersion": ">=0.75.45"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
